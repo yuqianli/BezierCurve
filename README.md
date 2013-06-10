@@ -12,4 +12,4 @@ How to compile and run it:
 
 
 
-*SJSU CS 116A: Introduction to Computer Graphics class assignment.
+*#SJSU CS 116A: Introduction to Computer Graphics class assignment.*
