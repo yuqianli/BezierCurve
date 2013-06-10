@@ -11,4 +11,5 @@ How to compile and run it:
 - Click Local WIndows Debugger to comile and run the program.
 
 
-*SJSU CS 116A: Introduction to Computer Graphics class assignment*
+
+  *SJSU CS 116A: Introduction to Computer Graphics class assignment.
